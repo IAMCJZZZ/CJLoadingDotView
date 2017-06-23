@@ -8,7 +8,7 @@
 
 import UIKit
 
-class CJLoadingDotView: UIView {
+open class CJLoadingDotView: UIView {
 
     // 点个数
     var dotNum:Int = 3
