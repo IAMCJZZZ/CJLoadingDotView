@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "CJLoadingDotView"
-s.version      = "1.0.0"
+s.version      = "1.0.2"
 s.summary      = "A loadingView -- CJLoadingDotView."
 s.description  = <<-DESC
 可以自定义数量、颜色、大小、时间、间距的“点点loading图”

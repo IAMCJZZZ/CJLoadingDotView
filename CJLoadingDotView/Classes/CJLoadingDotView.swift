@@ -11,24 +11,24 @@ import UIKit
 open class CJLoadingDotView: UIView {
 
     // 点个数
-    var dotNum:Int = 3
+    open var dotNum:Int = 3
     // 点宽高
-    var dotWH:CGFloat = 20
+    open var dotWH:CGFloat = 20
     // 点间距
-    var margin:CGFloat = 10
+    open var margin:CGFloat = 10
     // 点颜色
-    var dotColor:UIColor = UIColor.lightGray
+    open var dotColor:UIColor = UIColor.lightGray
     // 循环时间
-    var duration:TimeInterval = 1
+    open var duration:TimeInterval = 1
     
     // 显示在目标view上面
-    func show(targetView:UIView) {
+    open func show(targetView:UIView) {
         
         targetView.addSubview(self)
         createDotViews(targetView: targetView)
     }
     // 隐藏
-    func hide() {
+    open func hide() {
         for view in self.subviews {
             view.removeFromSuperview()
         }
