@@ -4,7 +4,7 @@
 # cocoapods 
 使用 pod 'CJLoadingDotView' 引入
 
-![CJLoadingDotView.gif](http://upload-images.jianshu.io/upload_images/1825076-3d0ae92a379cc151.gif?imageMogr2/auto-orient/strip)
+![CJLoadingDotView.gif](https://github.com/CJProgrammer/CJLoadingDotView/blob/master/CJLoadingDotView.gif)
 
 ### 使用方法
 let cjLoadingDotView = CJLoadingDotView()
