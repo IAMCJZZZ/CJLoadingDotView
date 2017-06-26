@@ -7,6 +7,7 @@
 ![CJLoadingDotView.gif](https://github.com/CJProgrammer/CJLoadingDotView/blob/master/CJLoadingDotView.gif)
 
 # 使用方法
+```
 let cjLoadingDotView = CJLoadingDotView()
 
 // 点个数
@@ -36,4 +37,4 @@ DispatchQueue.main.asyncAfter(deadline:DispatchTime.now() + 10) {
     cjLoadingDotView.hide()
 
 }
-
+```
