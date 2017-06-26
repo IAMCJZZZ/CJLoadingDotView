@@ -1,6 +1,8 @@
 # CJLoadingDotView
 可以自定义数量、颜色、大小、时间、间距的“点点loading图”
-cocoapods 使用 pod 'CJLoadingDotView' 引入
+
+# cocoapods 
+使用 pod 'CJLoadingDotView' 引入
 
 ![CJLoadingDotView.gif](http://upload-images.jianshu.io/upload_images/1825076-3d0ae92a379cc151.gif?imageMogr2/auto-orient/strip)
 
